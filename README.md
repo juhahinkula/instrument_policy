@@ -32,3 +32,5 @@ The app does not use third-party analytics or advertising services that collect 
 ## Data Retention and Deletion
 As no data is collected, there is nothing to retain or delete. Because no personal data is processed, no user registry is created and registry-controller obligations do not apply.
 
+[Support page](https://github.com/juhahinkula/instrument_policy/blob/main/support.md)
+
